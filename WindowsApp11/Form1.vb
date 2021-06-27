@@ -14,6 +14,8 @@ Public Class Form1
 
         'Dim dbcon As String
 
+        ''hatdog is real
+
         'dbcon = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Downloads\Supply_Account_Ns.accdb"
 
         '//connect to Database
