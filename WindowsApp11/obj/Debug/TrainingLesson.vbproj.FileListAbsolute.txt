@@ -1,0 +1,12 @@
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.exe.config
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.exe
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.pdb
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.xml
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\TrainingLesson.vbproj.AssemblyReference.cache
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.Form1.resources
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.Resources.resources
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\TrainingLesson.vbproj.GenerateResource.cache
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\TrainingLesson.vbproj.CoreCompileInputs.cache
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.exe
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.xml
+D:\SCHOOLWORKS\Comprog3\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.pdb
